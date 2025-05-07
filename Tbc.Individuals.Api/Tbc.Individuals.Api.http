@@ -1,0 +1,6 @@
+@Tbc.Individuals.Api_HostAddress = http://localhost:5068
+
+GET {{Tbc.Individuals.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
